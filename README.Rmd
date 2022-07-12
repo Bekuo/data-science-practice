@@ -1,0 +1,11 @@
+---
+title: "README"
+author: "Bekuochukwu"
+output: html_document
+---
+
+This a project by Bekuochukwu Uzo-Menkiti analyzing data about Breast Cancer from Kaggle
+
+Include in your README:
+-Description (1-2 sentences) about your dataset
+-Your name
